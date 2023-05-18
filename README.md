@@ -34,7 +34,3 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=canersoy&show_icons=true&theme=radical&locale=en&layout=compact" alt="canersoy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canersoy&show_icons=true&theme=dark&locale=en" alt="canersoy" width="50%" /></p>
